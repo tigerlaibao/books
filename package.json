@@ -12,6 +12,7 @@
   "author": "赖宝",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.14.0",
     "highlight.js": "^9.8.0",
     "highlightjs": "^9.8.0",
     "remarkable": "^1.7.1"
